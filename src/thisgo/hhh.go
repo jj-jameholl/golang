@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
-
+import (
+	"test"
+	"github/test/pak"
+	)
 func main(){
-	fmt.Println("fuck!!");
+	test.Test();
+	pak.Test();
 }

@@ -2,6 +2,6 @@ package pak
 
 import "fmt"
 
-func fuck(){
+func Test(){
 	fmt.Println("im from pac")
 }
